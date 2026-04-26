@@ -1,0 +1,792 @@
+--- PART 1: VARYING PACKETS (Nodes=10) ---
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 352
+PDR               = 70.4 %
+End-to-End Delay  = 0.000919826 sec
+Average Jitter    = 0.000782743 sec
+Throughput        = 10.725 Kbps
+Communicational Overhead    = 148 packets
+Computational Overhead      = 1.176 sec
+Average Energy    = 18.0764 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 321
+PDR               = 64.2 %
+End-to-End Delay  = 0.0010486 sec
+Average Jitter    = 0.00104732 sec
+Throughput        = 9.78047 Kbps
+Communicational Overhead    = 189 packets
+Computational Overhead      = 1.309 sec
+Average Energy    = 18.0627 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 380
+PDR               = 76 %
+End-to-End Delay  = 0.0331204 sec
+Average Jitter    = 0.0200096 sec
+Throughput        = 11.5781 Kbps
+Communicational Overhead    = 146 packets
+Computational Overhead      = 3.024 sec
+Average Energy    = 18.0672 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 507
+PDR               = 72.4286 %
+End-to-End Delay  = 0.000691497 sec
+Average Jitter    = 0.000408138 sec
+Throughput        = 15.4477 Kbps
+Communicational Overhead    = 193 packets
+Computational Overhead      = 2.861 sec
+Average Energy    = 18.1044 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 438
+PDR               = 62.5714 %
+End-to-End Delay  = 0.000872261 sec
+Average Jitter    = 0.000762653 sec
+Throughput        = 13.3453 Kbps
+Communicational Overhead    = 263 packets
+Computational Overhead      = 1.697 sec
+Average Energy    = 18.0968 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 538
+PDR               = 76.8571 %
+End-to-End Delay  = 0.0256269 sec
+Average Jitter    = 0.00651551 sec
+Throughput        = 16.3922 Kbps
+Communicational Overhead    = 216 packets
+Computational Overhead      = 1.452 sec
+Average Energy    = 18.1061 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 653
+PDR               = 72.5556 %
+End-to-End Delay  = 0.000915084 sec
+Average Jitter    = 0.000724054 sec
+Throughput        = 19.8961 Kbps
+Communicational Overhead    = 246 packets
+Computational Overhead      = 1.896 sec
+Average Energy    = 18.1419 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 530
+PDR               = 58.8889 %
+End-to-End Delay  = 0.00543477 sec
+Average Jitter    = 0.00441328 sec
+Throughput        = 16.1484 Kbps
+Communicational Overhead    = 367 packets
+Computational Overhead      = 1.905 sec
+Average Energy    = 18.1576 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 671
+PDR               = 74.5556 %
+End-to-End Delay  = 0.0228659 sec
+Average Jitter    = 0.0139662 sec
+Throughput        = 20.4445 Kbps
+Communicational Overhead    = 283 packets
+Computational Overhead      = 2.6 sec
+Average Energy    = 18.1443 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 792
+PDR               = 72 %
+End-to-End Delay  = 0.00397493 sec
+Average Jitter    = 0.00301894 sec
+Throughput        = 24.1312 Kbps
+Communicational Overhead    = 308 packets
+Computational Overhead      = 2.599 sec
+Average Energy    = 18.1865 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 653
+PDR               = 59.3636 %
+End-to-End Delay  = 0.000862426 sec
+Average Jitter    = 0.000787278 sec
+Throughput        = 19.8961 Kbps
+Communicational Overhead    = 440 packets
+Computational Overhead      = 2.253 sec
+Average Energy    = 18.2029 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 782
+PDR               = 71.0909 %
+End-to-End Delay  = 0.0193876 sec
+Average Jitter    = 0.0114428 sec
+Throughput        = 23.8266 Kbps
+Communicational Overhead    = 355 packets
+Computational Overhead      = 3.609 sec
+Average Energy    = 18.1864 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 967
+PDR               = 74.3846 %
+End-to-End Delay  = 0.000943434 sec
+Average Jitter    = 0.000574151 sec
+Throughput        = 29.4633 Kbps
+Communicational Overhead    = 344 packets
+Computational Overhead      = 3.139 sec
+Average Energy    = 18.2113 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 808
+PDR               = 62.1538 %
+End-to-End Delay  = 0.00101863 sec
+Average Jitter    = 0.0008712 sec
+Throughput        = 24.6187 Kbps
+Communicational Overhead    = 495 packets
+Computational Overhead      = 3.032 sec
+Average Energy    = 18.2039 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 890
+PDR               = 68.4615 %
+End-to-End Delay  = 0.0200038 sec
+Average Jitter    = 0.0130694 sec
+Throughput        = 27.1172 Kbps
+Communicational Overhead    = 456 packets
+Computational Overhead      = 3.061 sec
+Average Energy    = 18.256 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 1065
+PDR               = 71 %
+End-to-End Delay  = 0.00118987 sec
+Average Jitter    = 0.000885908 sec
+Throughput        = 32.4492 Kbps
+Communicational Overhead    = 434 packets
+Computational Overhead      = 3.04 sec
+Average Energy    = 18.2836 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 940
+PDR               = 62.6667 %
+End-to-End Delay  = 0.00156088 sec
+Average Jitter    = 0.00112398 sec
+Throughput        = 28.6406 Kbps
+Communicational Overhead    = 563 packets
+Computational Overhead      = 3.42 sec
+Average Energy    = 18.3087 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 1135
+PDR               = 75.6667 %
+End-to-End Delay  = 0.0150224 sec
+Average Jitter    = 0.00902597 sec
+Throughput        = 34.582 Kbps
+Communicational Overhead    = 459 packets
+Computational Overhead      = 3.576 sec
+Average Energy    = 18.248 Joules
+======================================
+
+--- PART 2: VARYING NODES (Packets=500) ---
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 352
+PDR               = 70.4 %
+End-to-End Delay  = 0.000919826 sec
+Average Jitter    = 0.000782743 sec
+Throughput        = 10.725 Kbps
+Communicational Overhead    = 148 packets
+Computational Overhead      = 1.546 sec
+Average Energy    = 18.0764 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 321
+PDR               = 64.2 %
+End-to-End Delay  = 0.0010486 sec
+Average Jitter    = 0.00104732 sec
+Throughput        = 9.78047 Kbps
+Communicational Overhead    = 189 packets
+Computational Overhead      = 1.337 sec
+Average Energy    = 18.0627 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 380
+PDR               = 76 %
+End-to-End Delay  = 0.0331204 sec
+Average Jitter    = 0.0200096 sec
+Throughput        = 11.5781 Kbps
+Communicational Overhead    = 146 packets
+Computational Overhead      = 1.11 sec
+Average Energy    = 18.0672 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 326
+PDR               = 65.2 %
+End-to-End Delay  = 0.0280667 sec
+Average Jitter    = 0.0274069 sec
+Throughput        = 9.93281 Kbps
+Communicational Overhead    = 196 packets
+Computational Overhead      = 3.829 sec
+Average Energy    = 18.09 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 324
+PDR               = 64.8 %
+End-to-End Delay  = 0.00239925 sec
+Average Jitter    = 0.00248502 sec
+Throughput        = 9.87187 Kbps
+Communicational Overhead    = 199 packets
+Computational Overhead      = 3.758 sec
+Average Energy    = 18.0799 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 352
+PDR               = 70.4 %
+End-to-End Delay  = 0.0108494 sec
+Average Jitter    = 0.011987 sec
+Throughput        = 10.725 Kbps
+Communicational Overhead    = 163 packets
+Computational Overhead      = 7.634 sec
+Average Energy    = 18.0647 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 338
+PDR               = 68.2828 %
+End-to-End Delay  = 0.0560123 sec
+Average Jitter    = 0.0451964 sec
+Throughput        = 10.2984 Kbps
+Communicational Overhead    = 155 packets
+Computational Overhead      = 13.052 sec
+Average Energy    = 18.0882 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 293
+PDR               = 59.1919 %
+End-to-End Delay  = 0.0244481 sec
+Average Jitter    = 0.0246446 sec
+Throughput        = 8.92734 Kbps
+Communicational Overhead    = 209 packets
+Computational Overhead      = 10.559 sec
+Average Energy    = 18.1101 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 324
+PDR               = 65.4545 %
+End-to-End Delay  = 0.00791003 sec
+Average Jitter    = 0.0137723 sec
+Throughput        = 9.87188 Kbps
+Communicational Overhead    = 195 packets
+Computational Overhead      = 12.773 sec
+Average Energy    = 18.1201 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 306
+PDR               = 61.2 %
+End-to-End Delay  = 0.0285527 sec
+Average Jitter    = 0.0337417 sec
+Throughput        = 9.32344 Kbps
+Communicational Overhead    = 188 packets
+Computational Overhead      = 20.765 sec
+Average Energy    = 18.1554 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 319
+PDR               = 63.8 %
+End-to-End Delay  = 0.0174642 sec
+Average Jitter    = 0.0183831 sec
+Throughput        = 9.71953 Kbps
+Communicational Overhead    = 192 packets
+Computational Overhead      = 26.237 sec
+Average Energy    = 18.1562 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 339
+PDR               = 67.8 %
+End-to-End Delay  = 0.0109907 sec
+Average Jitter    = 0.0192306 sec
+Throughput        = 10.3289 Kbps
+Communicational Overhead    = 172 packets
+Computational Overhead      = 22.053 sec
+Average Energy    = 18.1523 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 382
+PDR               = 76.4 %
+End-to-End Delay  = 0.0389767 sec
+Average Jitter    = 0.0621746 sec
+Throughput        = 11.6391 Kbps
+Communicational Overhead    = 142 packets
+Computational Overhead      = 42.389 sec
+Average Energy    = 18.2272 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 321
+PDR               = 64.2 %
+End-to-End Delay  = 0.0367784 sec
+Average Jitter    = 0.0634911 sec
+Throughput        = 9.78047 Kbps
+Communicational Overhead    = 185 packets
+Computational Overhead      = 42.807 sec
+Average Energy    = 18.2019 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 296
+PDR               = 59.2 %
+End-to-End Delay  = 0.0521807 sec
+Average Jitter    = 0.0740579 sec
+Throughput        = 9.01875 Kbps
+Communicational Overhead    = 211 packets
+Computational Overhead      = 44.144 sec
+Average Energy    = 18.2078 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 291
+PDR               = 60.625 %
+End-to-End Delay  = 0.0433761 sec
+Average Jitter    = 0.0554368 sec
+Throughput        = 8.86641 Kbps
+Communicational Overhead    = 188 packets
+Computational Overhead      = 52.398 sec
+Average Energy    = 18.2816 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 329
+PDR               = 68.5417 %
+End-to-End Delay  = 0.0468225 sec
+Average Jitter    = 0.0777386 sec
+Throughput        = 10.0242 Kbps
+Communicational Overhead    = 166 packets
+Computational Overhead      = 77.335 sec
+Average Energy    = 18.2832 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = LEACH Clustering (B4)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 347
+PDR               = 72.2917 %
+End-to-End Delay  = 0.0695953 sec
+Average Jitter    = 0.116491 sec
+Throughput        = 10.5727 Kbps
+Communicational Overhead    = 150 packets
+Computational Overhead      = 74.589 sec
+Average Energy    = 18.2625 Joules
+======================================
+

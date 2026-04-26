@@ -1,0 +1,49 @@
+\documentclass[tikz, border=10mm]{standalone}
+\usepackage{pgfplots}
+\usepackage{lmodern}
+\pgfplotsset{compat=1.17}
+
+\begin{document}
+\begin{tikzpicture}
+    \begin{axis}[
+        width=20cm, height=15cm,
+        tick label style={font=\fontsize{24}{28}\selectfont},
+        label style={font=\fontsize{24}{28}\selectfont},
+        title style={font=\fontsize{24}{28}\selectfont, pad=15pt},
+        title={End-to-End Delay vs Node Density},
+        xlabel={Number of Nodes},
+        ylabel={End-to-End Delay (sec)},
+        xmin=5, xmax=65,
+        xtick={10,20,30,40,50,60},
+        legend style={
+            font=\fontsize{20}{24}\selectfont, 
+            draw=black, 
+            fill=white,
+            at={(0.02,0.95)}, 
+            anchor=north west
+        },
+        ymajorgrids=true, xmajorgrids=true, grid style=dashed
+    ]
+        % SCLRP
+        \addplot [mark=*, color=teal, line width=3pt, mark size=4pt] coordinates {
+            (10,0.0111) (20,0.0668) (30,0.0435) (40,0.0636) (50,0.1126) (60,0.1226)
+        };
+        \addlegendentry{Proposed SCLRP}
+        % AODV
+        \addplot [mark=square*, color=blue, line width=2pt, mark size=4pt, dashed] coordinates {
+            (10,0.0300) (20,0.0571) (30,0.0913) (40,0.1652) (50,0.2259) (60,0.2778)
+        };
+        \addlegendentry{ARRP (Reactive)}
+        % DSDV
+        \addplot [mark=triangle*, color=red, line width=2pt, mark size=5pt, dashdotted] coordinates {
+            (10,0.0180) (20,0.0482) (30,0.0455) (40,0.0176) (50,0.0597) (60,0.0565)
+        };
+        \addlegendentry{TTDR (Proactive)}
+        % LEACH
+        \addplot [mark=triangle*, color=green!70!black, mark options={rotate=180}, line width=2pt, mark size=5pt, dashed] coordinates {
+            (10,0.0117) (20,0.0138) (30,0.0295) (40,0.0190) (50,0.0427) (60,0.0533)
+        };
+        \addlegendentry{EECH (Clustering)}
+    \end{axis}
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="NTjnyNLpKkboAfEaoiRj">
+    <mxGraphModel dx="1585" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="start" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="START: New Packet for Routing" vertex="1">
+          <mxGeometry height="40" width="260" x="250" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="step1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="1. DATA COLLECTION&lt;br&gt;(Cross-Layer Monitoring)" vertex="1">
+          <mxGeometry height="45" width="300" x="230" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="step2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="2. NEIGHBOR DISCOVERY &amp;amp; LOCAL STATE UPDATE&lt;br&gt;(Distributed Knowledge)" vertex="1">
+          <mxGeometry height="45" width="400" x="180" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="step3_container" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;align=center;verticalAlign=top;paddingTop=5;fontFamily=Helvetica;" value="3. CALCULATE ROUTING METRICS FOR NEIGHBOR &lt;i&gt;j&lt;/i&gt;&lt;br&gt;(Eq 3.14 - 3.25)" vertex="1">
+          <mxGeometry height="90" width="440" x="160" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="step3_lq" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" value="&lt;i&gt;LQ&lt;sub&gt;ij&lt;/sub&gt;&lt;/i&gt; (Link Quality)" vertex="1">
+          <mxGeometry height="25" width="130" x="175" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="step3_ci" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" value="&lt;i&gt;CI&lt;sub&gt;i&lt;/sub&gt;&lt;/i&gt; (Congestion Index)" vertex="1">
+          <mxGeometry height="25" width="130" x="315" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="step3_re" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" value="&lt;i&gt;RE&lt;sub&gt;i&lt;/sub&gt;&lt;/i&gt; (Residual Energy)" vertex="1">
+          <mxGeometry height="25" width="130" x="455" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="step4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="4. COMPUTE ROUTING COST: &lt;i&gt;Cost(i &amp;rarr; j) = f(LQ, CI, RE)&lt;/i&gt; (Eq 3.26)" vertex="1">
+          <mxGeometry height="35" width="440" x="160" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="dec5" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="5. IS &lt;i&gt;Cost(i &amp;rarr; j)&lt;/i&gt; THE MINIMUM COST&lt;br&gt;AMONG NEIGHBORS?" vertex="1">
+          <mxGeometry height="70" width="440" x="160" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="step6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="6. SELECT NEIGHBOR &lt;i&gt;j&lt;/i&gt; AS NEXT-HOP" vertex="1">
+          <mxGeometry height="30" width="200" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="dec7" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="7. IS NEXT-HOP VALID AND&lt;br&gt;PATH TO SINK EXIST?" vertex="1">
+          <mxGeometry height="70" width="340" x="210" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="step8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="8. TRANSMIT PACKET TO &lt;i&gt;j&lt;/i&gt; (Hand-off to Phase 3)" vertex="1">
+          <mxGeometry height="30" width="340" x="210" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="end" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="END: Transmission Successful" vertex="1">
+          <mxGeometry height="40" width="260" x="250" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="reroute" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;" value="REROUTING&lt;br&gt;TRIGGER" vertex="1">
+          <mxGeometry height="50" width="100" x="590" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="j1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="15" width="20" x="630" y="236" as="geometry" />
+        </mxCell>
+        <mxCell id="j2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="15" width="20" x="630" y="467.5" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" edge="1" parent="1" source="start" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="step1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" edge="1" parent="1" source="step1" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="step2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" edge="1" parent="1" source="step2" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="step3_container">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge4" edge="1" parent="1" source="step3_container" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="step4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge5" edge="1" parent="1" source="step4" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="dec5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge6" edge="1" parent="1" source="dec5" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="step6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_yes1" connectable="0" parent="edge6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.2" as="geometry">
+            <mxPoint x="17" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge7" edge="1" parent="1" source="step6" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="dec7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge8" edge="1" parent="1" source="dec7" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="step8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_yes2" connectable="0" parent="edge8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.3" as="geometry">
+            <mxPoint x="18" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge9" edge="1" parent="1" source="step8" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="end">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge10" edge="1" parent="1" source="dec5" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="j2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_no1" connectable="0" parent="edge10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.2" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge11" edge="1" parent="1" source="dec7" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="reroute">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_no2" connectable="0" parent="edge11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge12" edge="1" parent="1" source="reroute" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;entryX=0.5;entryY=1;strokeColor=#000000;strokeWidth=1.5;endArrow=block;endFill=1;" target="j2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge13" edge="1" parent="1" source="j2" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;entryX=0.5;entryY=1;strokeColor=#000000;strokeWidth=1.5;endArrow=none;" target="j1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyhxxPx3KDgV4kjhqemT-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fig: SCLRP Routing Decision Flowchart" vertex="1">
+          <mxGeometry height="30" width="250" x="255" y="818" as="geometry" />
+        </mxCell>
+        <mxCell id="zyhxxPx3KDgV4kjhqemT-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="241.5" as="sourcePoint" />
+            <mxPoint x="380" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyhxxPx3KDgV4kjhqemT-3" edge="1" parent="1" source="reroute" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="step3_container" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="635" />
+              <mxPoint x="710" y="480" />
+              <mxPoint x="710" y="305" />
+            </Array>
+            <mxPoint x="310" y="440" as="sourcePoint" />
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

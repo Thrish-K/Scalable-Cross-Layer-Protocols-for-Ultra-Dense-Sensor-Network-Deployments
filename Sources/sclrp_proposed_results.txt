@@ -1,0 +1,792 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 212
+PDR               = 42.4 %
+End-to-End Delay  = 0.00185722 sec
+Average Jitter    = 0.00201944 sec
+Throughput        = 6.45938 Kbps
+Communicational Overhead    = 279 packets
+Computational Overhead    = 1.233 sec
+Average Energy    = 18.1366 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 182
+PDR               = 36.4 %
+End-to-End Delay  = 0.0292451 sec
+Average Jitter    = 0.0243759 sec
+Throughput        = 5.54531 Kbps
+Communicational Overhead    = 319 packets
+Computational Overhead    = 1.217 sec
+Average Energy    = 18.1129 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 137
+PDR               = 27.4 %
+End-to-End Delay  = 0.00203645 sec
+Average Jitter    = 0.00226104 sec
+Throughput        = 4.17422 Kbps
+Communicational Overhead    = 357 packets
+Computational Overhead    = 1.086 sec
+Average Energy    = 18.0765 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 304
+PDR               = 43.4286 %
+End-to-End Delay  = 0.00112999 sec
+Average Jitter    = 0.000947816 sec
+Throughput        = 9.2625 Kbps
+Communicational Overhead    = 393 packets
+Computational Overhead    = 1.965 sec
+Average Energy    = 18.2038 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 260
+PDR               = 37.1429 %
+End-to-End Delay  = 0.00106297 sec
+Average Jitter    = 0.000940342 sec
+Throughput        = 7.92187 Kbps
+Communicational Overhead    = 423 packets
+Computational Overhead    = 1.995 sec
+Average Energy    = 18.1852 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 190
+PDR               = 27.1429 %
+End-to-End Delay  = 0.0119426 sec
+Average Jitter    = 0.00653542 sec
+Throughput        = 5.78906 Kbps
+Communicational Overhead    = 486 packets
+Computational Overhead    = 1.478 sec
+Average Energy    = 18.1437 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 402
+PDR               = 44.6667 %
+End-to-End Delay  = 0.00351181 sec
+Average Jitter    = 0.00223625 sec
+Throughput        = 12.2484 Kbps
+Communicational Overhead    = 505 packets
+Computational Overhead    = 2.095 sec
+Average Energy    = 18.2682 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 353
+PDR               = 39.2222 %
+End-to-End Delay  = 0.00435111 sec
+Average Jitter    = 0.00723023 sec
+Throughput        = 10.7555 Kbps
+Communicational Overhead    = 536 packets
+Computational Overhead    = 2.188 sec
+Average Energy    = 18.2382 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 327
+PDR               = 36.3333 %
+End-to-End Delay  = 0.00605413 sec
+Average Jitter    = 0.00442142 sec
+Throughput        = 9.96328 Kbps
+Communicational Overhead    = 580 packets
+Computational Overhead    = 2.239 sec
+Average Energy    = 18.2272 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 479
+PDR               = 43.5455 %
+End-to-End Delay  = 0.0139186 sec
+Average Jitter    = 0.0180486 sec
+Throughput        = 14.5945 Kbps
+Communicational Overhead    = 614 packets
+Computational Overhead    = 2.615 sec
+Average Energy    = 18.3396 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 445
+PDR               = 40.4545 %
+End-to-End Delay  = 0.00133391 sec
+Average Jitter    = 0.00129664 sec
+Throughput        = 13.5586 Kbps
+Communicational Overhead    = 658 packets
+Computational Overhead    = 2.704 sec
+Average Energy    = 18.3048 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 297
+PDR               = 27 %
+End-to-End Delay  = 0.0106084 sec
+Average Jitter    = 0.00876391 sec
+Throughput        = 9.04922 Kbps
+Communicational Overhead    = 784 packets
+Computational Overhead    = 2.238 sec
+Average Energy    = 18.209 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 581
+PDR               = 44.6923 %
+End-to-End Delay  = 0.0030654 sec
+Average Jitter    = 0.00226742 sec
+Throughput        = 17.7023 Kbps
+Communicational Overhead    = 729 packets
+Computational Overhead    = 3.439 sec
+Average Energy    = 18.4017 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 483
+PDR               = 37.1538 %
+End-to-End Delay  = 0.00802449 sec
+Average Jitter    = 0.00586573 sec
+Throughput        = 14.7164 Kbps
+Communicational Overhead    = 778 packets
+Computational Overhead    = 4.186 sec
+Average Energy    = 18.3683 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 336
+PDR               = 25.8462 %
+End-to-End Delay  = 0.00465201 sec
+Average Jitter    = 0.00463703 sec
+Throughput        = 10.2375 Kbps
+Communicational Overhead    = 955 packets
+Computational Overhead    = 2.589 sec
+Average Energy    = 18.2278 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 653
+PDR               = 43.5333 %
+End-to-End Delay  = 0.00420402 sec
+Average Jitter    = 0.00297412 sec
+Throughput        = 19.8961 Kbps
+Communicational Overhead    = 834 packets
+Computational Overhead    = 4.176 sec
+Average Energy    = 18.4612 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 534
+PDR               = 35.6 %
+End-to-End Delay  = 0.00759131 sec
+Average Jitter    = 0.00628837 sec
+Throughput        = 16.2703 Kbps
+Communicational Overhead    = 926 packets
+Computational Overhead    = 4.487 sec
+Average Energy    = 18.4368 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 473
+PDR               = 31.5333 %
+End-to-End Delay  = 0.014901 sec
+Average Jitter    = 0.0118724 sec
+Throughput        = 14.4117 Kbps
+Communicational Overhead    = 990 packets
+Computational Overhead    = 3.867 sec
+Average Energy    = 18.3277 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 212
+PDR               = 42.4 %
+End-to-End Delay  = 0.00185722 sec
+Average Jitter    = 0.00201944 sec
+Throughput        = 6.45938 Kbps
+Communicational Overhead    = 279 packets
+Computational Overhead    = 1.475 sec
+Average Energy    = 18.1366 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 182
+PDR               = 36.4 %
+End-to-End Delay  = 0.0292451 sec
+Average Jitter    = 0.0243759 sec
+Throughput        = 5.54531 Kbps
+Communicational Overhead    = 319 packets
+Computational Overhead    = 1.479 sec
+Average Energy    = 18.1129 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 137
+PDR               = 27.4 %
+End-to-End Delay  = 0.00203645 sec
+Average Jitter    = 0.00226104 sec
+Throughput        = 4.17422 Kbps
+Communicational Overhead    = 357 packets
+Computational Overhead    = 1.312 sec
+Average Energy    = 18.0765 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 175
+PDR               = 35 %
+End-to-End Delay  = 0.194084 sec
+Average Jitter    = 0.0849318 sec
+Throughput        = 5.33203 Kbps
+Communicational Overhead    = 338 packets
+Computational Overhead    = 3.625 sec
+Average Energy    = 18.0788 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 203
+PDR               = 40.6 %
+End-to-End Delay  = 0.00254549 sec
+Average Jitter    = 0.00240703 sec
+Throughput        = 6.18516 Kbps
+Communicational Overhead    = 316 packets
+Computational Overhead    = 4.566 sec
+Average Energy    = 18.0866 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 122
+PDR               = 24.4 %
+End-to-End Delay  = 0.00368237 sec
+Average Jitter    = 0.00335227 sec
+Throughput        = 3.71719 Kbps
+Communicational Overhead    = 370 packets
+Computational Overhead    = 3.724 sec
+Average Energy    = 18.057 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 164
+PDR               = 33.1313 %
+End-to-End Delay  = 0.0773027 sec
+Average Jitter    = 0.049253 sec
+Throughput        = 4.99688 Kbps
+Communicational Overhead    = 312 packets
+Computational Overhead    = 8.754 sec
+Average Energy    = 18.0795 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 153
+PDR               = 30.9091 %
+End-to-End Delay  = 0.0358477 sec
+Average Jitter    = 0.0230502 sec
+Throughput        = 4.66172 Kbps
+Communicational Overhead    = 342 packets
+Computational Overhead    = 8.577 sec
+Average Energy    = 18.0991 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 159
+PDR               = 32.1212 %
+End-to-End Delay  = 0.0174213 sec
+Average Jitter    = 0.0309559 sec
+Throughput        = 4.84453 Kbps
+Communicational Overhead    = 345 packets
+Computational Overhead    = 8.699 sec
+Average Energy    = 18.0949 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 159
+PDR               = 31.8 %
+End-to-End Delay  = 0.0188463 sec
+Average Jitter    = 0.0201025 sec
+Throughput        = 4.84453 Kbps
+Communicational Overhead    = 326 packets
+Computational Overhead    = 20.102 sec
+Average Energy    = 18.1099 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 146
+PDR               = 29.2 %
+End-to-End Delay  = 0.0751784 sec
+Average Jitter    = 0.0892329 sec
+Throughput        = 4.44844 Kbps
+Communicational Overhead    = 346 packets
+Computational Overhead    = 17.299 sec
+Average Energy    = 18.1138 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 187
+PDR               = 37.4 %
+End-to-End Delay  = 0.096867 sec
+Average Jitter    = 0.117852 sec
+Throughput        = 5.69766 Kbps
+Communicational Overhead    = 309 packets
+Computational Overhead    = 23.056 sec
+Average Energy    = 18.1162 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 211
+PDR               = 42.2 %
+End-to-End Delay  = 0.0928726 sec
+Average Jitter    = 0.100486 sec
+Throughput        = 6.42891 Kbps
+Communicational Overhead    = 297 packets
+Computational Overhead    = 30.201 sec
+Average Energy    = 18.153 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 185
+PDR               = 37 %
+End-to-End Delay  = 0.071725 sec
+Average Jitter    = 0.117087 sec
+Throughput        = 5.63672 Kbps
+Communicational Overhead    = 306 packets
+Computational Overhead    = 31.167 sec
+Average Energy    = 18.1484 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 162
+PDR               = 32.4 %
+End-to-End Delay  = 0.173062 sec
+Average Jitter    = 0.243212 sec
+Throughput        = 4.93594 Kbps
+Communicational Overhead    = 346 packets
+Computational Overhead    = 33.801 sec
+Average Energy    = 18.1568 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 180
+PDR               = 37.5 %
+End-to-End Delay  = 0.12069 sec
+Average Jitter    = 0.169464 sec
+Throughput        = 5.48438 Kbps
+Communicational Overhead    = 296 packets
+Computational Overhead    = 67.442 sec
+Average Energy    = 18.1955 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 165
+PDR               = 34.375 %
+End-to-End Delay  = 0.152683 sec
+Average Jitter    = 0.173426 sec
+Throughput        = 5.02734 Kbps
+Communicational Overhead    = 306 packets
+Computational Overhead    = 67.946 sec
+Average Energy    = 18.1968 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = SCLRP Framework
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 168
+PDR               = 35 %
+End-to-End Delay  = 0.094503 sec
+Average Jitter    = 0.106361 sec
+Throughput        = 5.11875 Kbps
+Communicational Overhead    = 313 packets
+Computational Overhead    = 59.866 sec
+Average Energy    = 18.179 Joules
+======================================
+

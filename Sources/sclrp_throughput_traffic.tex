@@ -1,0 +1,33 @@
+\documentclass[tikz, border=10mm]{standalone}
+\usepackage{pgfplots}
+\usepackage{lmodern}
+\pgfplotsset{compat=1.17}
+
+\begin{document}
+\begin{tikzpicture}
+    \begin{axis}[
+        width=20cm, height=15cm,
+        tick label style={font=\fontsize{24}{28}\selectfont},
+        label style={font=\fontsize{24}{28}\selectfont},
+        title style={font=\fontsize{24}{28}\selectfont, pad=15pt},
+        title={Throughput vs Traffic Load},
+        xlabel={Traffic Load (Packets)},
+        ylabel={Throughput (Kbps)},
+        xmin=450, xmax=1550,
+        xtick={500,700,900,1100,1300,1500},
+        legend style={
+            font=\fontsize{24}{28}\selectfont, 
+            draw=black, 
+            fill=white,
+            at={(0.02,0.95)}, 
+            anchor=north west
+        },
+        ymajorgrids=true, xmajorgrids=true, grid style=dashed
+    ]
+        \addplot [mark=*, color=teal, line width=2pt, mark size=4pt] coordinates {
+            (500,5.39) (700,7.65) (900,10.98) (1100,12.40) (1300,14.21) (1500,16.85)
+        };
+        \addlegendentry{Proposed SCLRP}
+    \end{axis}
+\end{tikzpicture}
+\end{document}

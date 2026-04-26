@@ -1,0 +1,794 @@
+--- PART 1: VARYING PACKETS (Nodes=10) ---
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 337
+PDR               = 67.4 %
+End-to-End Delay  = 0.0216367 sec
+Average Jitter    = 0.0126208 sec
+Throughput        = 10.268 Kbps
+Communicational Overhead    = 290 packets
+Computational Overhead      = 1.083 sec
+Average Energy    = 18.0682 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 497
+Packets Received  = 345
+PDR               = 69.4165 %
+End-to-End Delay  = 0.00119879 sec
+Average Jitter    = 0.00114418 sec
+Throughput        = 10.5117 Kbps
+Communicational Overhead    = 282 packets
+Computational Overhead      = 3.04 sec
+Average Energy    = 18.1029 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 361
+PDR               = 72.2 %
+End-to-End Delay  = 0.000798286 sec
+Average Jitter    = 0.000427691 sec
+Throughput        = 10.9992 Kbps
+Communicational Overhead    = 279 packets
+Computational Overhead      = 1.664 sec
+Average Energy    = 18.1136 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 545
+PDR               = 77.8571 %
+End-to-End Delay  = 0.0140709 sec
+Average Jitter    = 0.00769906 sec
+Throughput        = 16.6055 Kbps
+Communicational Overhead    = 333 packets
+Computational Overhead      = 1.924 sec
+Average Energy    = 18.1054 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 696
+Packets Received  = 488
+PDR               = 70.1149 %
+End-to-End Delay  = 0.0241488 sec
+Average Jitter    = 0.0193244 sec
+Throughput        = 14.8687 Kbps
+Communicational Overhead    = 390 packets
+Computational Overhead      = 2.689 sec
+Average Energy    = 18.1343 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 513
+PDR               = 73.2857 %
+End-to-End Delay  = 0.00584246 sec
+Average Jitter    = 0.00756526 sec
+Throughput        = 15.6305 Kbps
+Communicational Overhead    = 385 packets
+Computational Overhead      = 1.935 sec
+Average Energy    = 18.1327 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 695
+PDR               = 77.2222 %
+End-to-End Delay  = 0.0150413 sec
+Average Jitter    = 0.0121045 sec
+Throughput        = 21.1758 Kbps
+Communicational Overhead    = 433 packets
+Computational Overhead      = 1.936 sec
+Average Energy    = 18.1309 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 895
+Packets Received  = 615
+PDR               = 68.7151 %
+End-to-End Delay  = 0.00136645 sec
+Average Jitter    = 0.00141443 sec
+Throughput        = 18.7383 Kbps
+Communicational Overhead    = 504 packets
+Computational Overhead      = 2.213 sec
+Average Energy    = 18.1654 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 653
+PDR               = 72.5556 %
+End-to-End Delay  = 0.0100826 sec
+Average Jitter    = 0.00731449 sec
+Throughput        = 19.8961 Kbps
+Communicational Overhead    = 502 packets
+Computational Overhead      = 2.027 sec
+Average Energy    = 18.1715 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 835
+PDR               = 75.9091 %
+End-to-End Delay  = 0.01059 sec
+Average Jitter    = 0.00407352 sec
+Throughput        = 25.4414 Kbps
+Communicational Overhead    = 536 packets
+Computational Overhead      = 2.309 sec
+Average Energy    = 18.1551 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1093
+Packets Received  = 744
+PDR               = 68.0695 %
+End-to-End Delay  = 0.0124009 sec
+Average Jitter    = 0.00884144 sec
+Throughput        = 22.6688 Kbps
+Communicational Overhead    = 615 packets
+Computational Overhead      = 2.579 sec
+Average Energy    = 18.1957 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 818
+PDR               = 74.3636 %
+End-to-End Delay  = 0.0198826 sec
+Average Jitter    = 0.013122 sec
+Throughput        = 24.9234 Kbps
+Communicational Overhead    = 594 packets
+Computational Overhead      = 2.571 sec
+Average Energy    = 18.1993 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 1004
+PDR               = 77.2308 %
+End-to-End Delay  = 0.00733807 sec
+Average Jitter    = 0.00449234 sec
+Throughput        = 30.5906 Kbps
+Communicational Overhead    = 626 packets
+Computational Overhead      = 2.823 sec
+Average Energy    = 18.1784 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1292
+Packets Received  = 874
+PDR               = 67.6471 %
+End-to-End Delay  = 0.0197464 sec
+Average Jitter    = 0.0113959 sec
+Throughput        = 26.6297 Kbps
+Communicational Overhead    = 744 packets
+Computational Overhead      = 4.902 sec
+Average Energy    = 18.2265 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 950
+PDR               = 73.0769 %
+End-to-End Delay  = 0.00547823 sec
+Average Jitter    = 0.00489913 sec
+Throughput        = 28.9453 Kbps
+Communicational Overhead    = 718 packets
+Computational Overhead      = 2.948 sec
+Average Energy    = 18.2273 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 1145
+PDR               = 76.3333 %
+End-to-End Delay  = 0.00566685 sec
+Average Jitter    = 0.002199 sec
+Throughput        = 34.8867 Kbps
+Communicational Overhead    = 727 packets
+Computational Overhead      = 3.136 sec
+Average Energy    = 18.2032 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1491
+Packets Received  = 986
+PDR               = 66.1301 %
+End-to-End Delay  = 0.0128416 sec
+Average Jitter    = 0.0129437 sec
+Throughput        = 30.0422 Kbps
+Communicational Overhead    = 840 packets
+Computational Overhead      = 3.359 sec
+Average Energy    = 18.2563 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 1066
+PDR               = 71.0667 %
+End-to-End Delay  = 0.00917109 sec
+Average Jitter    = 0.00631419 sec
+Throughput        = 32.4797 Kbps
+Communicational Overhead    = 854 packets
+Computational Overhead      = 4.199 sec
+Average Energy    = 18.2587 Joules
+======================================
+
+--- PART 2: VARYING NODES (Packets=500) ---
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 337
+PDR               = 67.4 %
+End-to-End Delay  = 0.0216367 sec
+Average Jitter    = 0.0126208 sec
+Throughput        = 10.268 Kbps
+Communicational Overhead    = 290 packets
+Computational Overhead      = 1.326 sec
+Average Energy    = 18.0682 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 497
+Packets Received  = 345
+PDR               = 69.4165 %
+End-to-End Delay  = 0.00119879 sec
+Average Jitter    = 0.00114418 sec
+Throughput        = 10.5117 Kbps
+Communicational Overhead    = 282 packets
+Computational Overhead      = 1.399 sec
+Average Energy    = 18.1029 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 361
+PDR               = 72.2 %
+End-to-End Delay  = 0.000798286 sec
+Average Jitter    = 0.000427691 sec
+Throughput        = 10.9992 Kbps
+Communicational Overhead    = 279 packets
+Computational Overhead      = 1.267 sec
+Average Energy    = 18.1136 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 322
+PDR               = 64.4 %
+End-to-End Delay  = 0.076997 sec
+Average Jitter    = 0.0655367 sec
+Throughput        = 9.81094 Kbps
+Communicational Overhead    = 328 packets
+Computational Overhead      = 4.079 sec
+Average Energy    = 18.1181 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 353
+PDR               = 70.6 %
+End-to-End Delay  = 0.0599675 sec
+Average Jitter    = 0.0629299 sec
+Throughput        = 10.7555 Kbps
+Communicational Overhead    = 299 packets
+Computational Overhead      = 3.772 sec
+Average Energy    = 18.1294 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 356
+PDR               = 71.2 %
+End-to-End Delay  = 0.0786819 sec
+Average Jitter    = 0.0707985 sec
+Throughput        = 10.8469 Kbps
+Communicational Overhead    = 284 packets
+Computational Overhead      = 5.216 sec
+Average Energy    = 18.1133 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 341
+PDR               = 68.8889 %
+End-to-End Delay  = 0.0846294 sec
+Average Jitter    = 0.108683 sec
+Throughput        = 10.3898 Kbps
+Communicational Overhead    = 282 packets
+Computational Overhead      = 9.477 sec
+Average Energy    = 18.1337 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 494
+Packets Received  = 341
+PDR               = 69.0283 %
+End-to-End Delay  = 0.0466984 sec
+Average Jitter    = 0.0792 sec
+Throughput        = 10.3898 Kbps
+Communicational Overhead    = 290 packets
+Computational Overhead      = 11.829 sec
+Average Energy    = 18.1466 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 493
+Packets Received  = 308
+PDR               = 62.4746 %
+End-to-End Delay  = 0.0999266 sec
+Average Jitter    = 0.120631 sec
+Throughput        = 9.38438 Kbps
+Communicational Overhead    = 318 packets
+Computational Overhead      = 10.389 sec
+Average Energy    = 18.1463 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 357
+PDR               = 71.4 %
+End-to-End Delay  = 0.0660657 sec
+Average Jitter    = 0.0959905 sec
+Throughput        = 10.8773 Kbps
+Communicational Overhead    = 265 packets
+Computational Overhead      = 19.163 sec
+Average Energy    = 18.1825 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 499
+Packets Received  = 372
+PDR               = 74.5491 %
+End-to-End Delay  = 0.0984066 sec
+Average Jitter    = 0.157445 sec
+Throughput        = 11.3344 Kbps
+Communicational Overhead    = 271 packets
+Computational Overhead      = 22.011 sec
+Average Energy    = 18.1756 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 499
+Packets Received  = 350
+PDR               = 70.1403 %
+End-to-End Delay  = 0.0676324 sec
+Average Jitter    = 0.102734 sec
+Throughput        = 10.6641 Kbps
+Communicational Overhead    = 285 packets
+Computational Overhead      = 27.651 sec
+Average Energy    = 18.1818 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 384
+PDR               = 76.8 %
+End-to-End Delay  = 0.0396707 sec
+Average Jitter    = 0.0660893 sec
+Throughput        = 11.7 Kbps
+Communicational Overhead    = 264 packets
+Computational Overhead      = 46.102 sec
+Average Energy    = 18.2377 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 373
+PDR               = 74.6 %
+End-to-End Delay  = 0.0619881 sec
+Average Jitter    = 0.0953567 sec
+Throughput        = 11.3648 Kbps
+Communicational Overhead    = 259 packets
+Computational Overhead      = 45.934 sec
+Average Energy    = 18.2139 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 498
+Packets Received  = 345
+PDR               = 69.2771 %
+End-to-End Delay  = 0.130669 sec
+Average Jitter    = 0.196576 sec
+Throughput        = 10.5117 Kbps
+Communicational Overhead    = 285 packets
+Computational Overhead      = 49.797 sec
+Average Energy    = 18.2279 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 478
+Packets Received  = 312
+PDR               = 65.272 %
+End-to-End Delay  = 0.140843 sec
+Average Jitter    = 0.2046 sec
+Throughput        = 9.50625 Kbps
+Communicational Overhead    = 287 packets
+Computational Overhead      = 102.055 sec
+Average Energy    = 18.2652 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 328
+PDR               = 68.3333 %
+End-to-End Delay  = 0.176419 sec
+Average Jitter    = 0.291892 sec
+Throughput        = 9.99375 Kbps
+Communicational Overhead    = 283 packets
+Computational Overhead      = 93.295 sec
+Average Energy    = 18.2776 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = OLSR Dense (B3)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 347
+PDR               = 72.2917 %
+End-to-End Delay  = 0.108354 sec
+Average Jitter    = 0.168434 sec
+Throughput        = 10.5727 Kbps
+Communicational Overhead    = 266 packets
+Computational Overhead      = 95.808 sec
+Average Energy    = 18.2722 Joules
+======================================
+

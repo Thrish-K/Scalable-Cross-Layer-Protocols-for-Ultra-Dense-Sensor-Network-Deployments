@@ -1,0 +1,49 @@
+\documentclass[tikz, border=10mm]{standalone}
+\usepackage{pgfplots}
+\usepackage{lmodern}
+\pgfplotsset{compat=1.17}
+
+\begin{document}
+\begin{tikzpicture}
+    \begin{axis}[
+        width=20cm, height=15cm,
+        tick label style={font=\fontsize{24}{28}\selectfont},
+        label style={font=\fontsize{24}{28}\selectfont},
+        title style={font=\fontsize{24}{28}\selectfont, pad=15pt},
+        title={Average Jitter vs Node Density},
+        xlabel={Number of Nodes},
+        ylabel={Average Jitter (sec)},
+        xmin=5, xmax=65,
+        xtick={10,20,30,40,50,60},
+        legend style={
+            font=\fontsize{20}{24}\selectfont, 
+            draw=black, 
+            fill=white,
+            at={(0.02,0.95)}, 
+            anchor=north west
+        },
+        ymajorgrids=true, xmajorgrids=true, grid style=dashed
+    ]
+        % SCLRP
+        \addplot [mark=*, color=teal, line width=3pt, mark size=4pt] coordinates {
+            (10,0.0096) (20,0.0302) (30,0.0344) (40,0.0757) (50,0.1536) (60,0.1498)
+        };
+        \addlegendentry{Proposed SCLRP}
+        % AODV
+        \addplot [mark=square*, color=blue, line width=2pt, mark size=4pt, dashed] coordinates {
+            (10,0.0224) (20,0.0454) (30,0.0699) (40,0.1088) (50,0.1288) (60,0.1410)
+        };
+        \addlegendentry{ARRP (Reactive)}
+        % OLSR
+        \addplot [mark=diamond*, color=orange, line width=2pt, mark size=5pt, dotted] coordinates {
+            (10,0.0047) (20,0.0664) (30,0.1028) (40,0.1187) (50,0.1193) (60,0.2216)
+        };
+        \addlegendentry{MPR-Based Scheme}
+        % DSDV
+        \addplot [mark=triangle*, color=red, line width=2pt, mark size=5pt, dashdotted] coordinates {
+            (10,0.0082) (20,0.0351) (30,0.0304) (40,0.0191) (50,0.0878) (60,0.0858)
+        };
+        \addlegendentry{TTDR (Proactive)}
+    \end{axis}
+\end{tikzpicture}
+\end{document}

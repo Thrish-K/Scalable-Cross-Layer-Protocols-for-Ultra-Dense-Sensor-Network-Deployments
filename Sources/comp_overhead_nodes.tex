@@ -1,0 +1,49 @@
+\documentclass[tikz, border=10mm]{standalone}
+\usepackage{pgfplots}
+\usepackage{lmodern}
+\pgfplotsset{compat=1.17}
+
+\begin{document}
+\begin{tikzpicture}
+    \begin{axis}[
+        width=20cm, height=15cm,
+        tick label style={font=\fontsize{24}{28}\selectfont},
+        label style={font=\fontsize{24}{28}\selectfont},
+        title style={font=\fontsize{24}{28}\selectfont, pad=15pt},
+        title={Communication Overhead vs Node Density},
+        xlabel={Number of Nodes},
+        ylabel={Communication Overhead (Packets)},
+        xmin=5, xmax=65,
+        xtick={10,20,30,40,50,60},
+        legend style={
+            font=\fontsize{20}{24}\selectfont, 
+            draw=black, 
+            fill=white,
+            at={(0.02,0.95)}, 
+            anchor=north west
+        },
+        ymajorgrids=true, xmajorgrids=true, grid style=dashed
+    ]
+        % SCLRP
+        \addplot [mark=*, color=teal, line width=3pt, mark size=4pt] coordinates {
+            (10,318.3) (20,341.3) (30,333.0) (40,327.0) (50,316.3) (60,305.0)
+        };
+        \addlegendentry{Proposed SCLRP}
+        % AODV
+        \addplot [mark=square*, color=blue, line width=2pt, mark size=4pt, dashed] coordinates {
+            (10,222.0) (20,834.3) (30,1548.3) (40,2298.3) (50,3096.7) (60,3803.7)
+        };
+        \addlegendentry{ARRP (Reactive)}
+        % OLSR
+        \addplot [mark=diamond*, color=orange, line width=2pt, mark size=5pt, dotted] coordinates {
+            (10,283.7) (20,303.7) (30,296.7) (40,273.7) (50,269.3) (60,278.7)
+        };
+        \addlegendentry{MPR-Based Scheme}
+        % LEACH
+        \addplot [mark=triangle*, color=green!70!black, mark options={rotate=180}, line width=2pt, mark size=5pt, dashed] coordinates {
+            (10,161.0) (20,186.0) (30,186.3) (40,184.0) (50,179.3) (60,168.0)
+        };
+        \addlegendentry{EECH (Clustering)}
+    \end{axis}
+\end{tikzpicture}
+\end{document}

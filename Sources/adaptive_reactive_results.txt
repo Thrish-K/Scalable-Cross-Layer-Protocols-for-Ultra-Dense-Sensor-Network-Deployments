@@ -1,0 +1,797 @@
+--- PART 1: VARYING PACKETS (Nodes=10) ---
+[0/2] Re-checking globbed directories...
+[1/2] Building CXX object scratch/CMakeFiles/scratch_aodv_reactive.dir/aodv_reactive.cc.o
+[2/2] Linking CXX executable /home/beast/ns-allinone-3.43/ns-3.43/build/scratch/ns3.43-aodv_reactive-default
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 886
+Packets Received  = 793
+PDR               = 89.5034 %
+End-to-End Delay  = 0.0245205 sec
+Average Jitter    = 0.0154728 sec
+Throughput        = 16.523 Kbps
+Communicational Overhead    = 199 packets
+Computational Overhead      = 2.586 sec
+Average Energy    = 18.0268 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 998
+Packets Received  = 895
+PDR               = 89.6794 %
+End-to-End Delay  = 0.0361155 sec
+Average Jitter    = 0.030594 sec
+Throughput        = 17.4211 Kbps
+Communicational Overhead    = 228 packets
+Computational Overhead      = 3.223 sec
+Average Energy    = 18.0308 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1036
+Packets Received  = 948
+PDR               = 91.5058 %
+End-to-End Delay  = 0.0294478 sec
+Average Jitter    = 0.0210102 sec
+Throughput        = 18.1801 Kbps
+Communicational Overhead    = 239 packets
+Computational Overhead      = 5.109 sec
+Average Energy    = 18.0306 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1050
+Packets Received  = 918
+PDR               = 87.4286 %
+End-to-End Delay  = 0.0222645 sec
+Average Jitter    = 0.0144615 sec
+Throughput        = 21.1941 Kbps
+Communicational Overhead    = 257 packets
+Computational Overhead      = 4.533 sec
+Average Energy    = 18.0342 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1314
+Packets Received  = 1178
+PDR               = 89.6499 %
+End-to-End Delay  = 0.0209928 sec
+Average Jitter    = 0.0159196 sec
+Throughput        = 23.7191 Kbps
+Communicational Overhead    = 308 packets
+Computational Overhead      = 6.288 sec
+Average Energy    = 18.0357 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1206
+Packets Received  = 1088
+PDR               = 90.2156 %
+End-to-End Delay  = 0.0190445 sec
+Average Jitter    = 0.0173993 sec
+Throughput        = 23.2422 Kbps
+Communicational Overhead    = 286 packets
+Computational Overhead      = 4.067 sec
+Average Energy    = 18.033 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1236
+Packets Received  = 1059
+PDR               = 85.6796 %
+End-to-End Delay  = 0.0161565 sec
+Average Jitter    = 0.0107958 sec
+Throughput        = 25.7617 Kbps
+Communicational Overhead    = 297 packets
+Computational Overhead      = 4.084 sec
+Average Energy    = 18.0445 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1387
+Packets Received  = 1231
+PDR               = 88.7527 %
+End-to-End Delay  = 0.0237274 sec
+Average Jitter    = 0.0213291 sec
+Throughput        = 28.0449 Kbps
+Communicational Overhead    = 321 packets
+Computational Overhead      = 3.659 sec
+Average Energy    = 18.0369 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1409
+Packets Received  = 1245
+PDR               = 88.3605 %
+End-to-End Delay  = 0.0170563 sec
+Average Jitter    = 0.00732017 sec
+Throughput        = 28.5129 Kbps
+Communicational Overhead    = 363 packets
+Computational Overhead      = 4.346 sec
+Average Energy    = 18.0401 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1527
+Packets Received  = 1272
+PDR               = 83.3006 %
+End-to-End Delay  = 0.0180656 sec
+Average Jitter    = 0.0124421 sec
+Throughput        = 31.0895 Kbps
+Communicational Overhead    = 388 packets
+Computational Overhead      = 8.47 sec
+Average Energy    = 18.049 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1553
+Packets Received  = 1416
+PDR               = 91.1784 %
+End-to-End Delay  = 0.0159959 sec
+Average Jitter    = 0.0117642 sec
+Throughput        = 34.2793 Kbps
+Communicational Overhead    = 346 packets
+Computational Overhead      = 3.832 sec
+Average Energy    = 18.0731 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1715
+Packets Received  = 1603
+PDR               = 93.4694 %
+End-to-End Delay  = 0.0130394 sec
+Average Jitter    = 0.010167 sec
+Throughput        = 36.3059 Kbps
+Communicational Overhead    = 349 packets
+Computational Overhead      = 5.12 sec
+Average Energy    = 18.0515 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1708
+Packets Received  = 1510
+PDR               = 88.4075 %
+End-to-End Delay  = 0.0134773 sec
+Average Jitter    = 0.0115302 sec
+Throughput        = 38.0316 Kbps
+Communicational Overhead    = 410 packets
+Computational Overhead      = 3.552 sec
+Average Energy    = 18.0449 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1872
+Packets Received  = 1762
+PDR               = 94.1239 %
+End-to-End Delay  = 0.0123942 sec
+Average Jitter    = 0.0100661 sec
+Throughput        = 41.9078 Kbps
+Communicational Overhead    = 362 packets
+Computational Overhead      = 4.731 sec
+Average Energy    = 18.055 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1779
+Packets Received  = 1641
+PDR               = 92.2428 %
+End-to-End Delay  = 0.00585273 sec
+Average Jitter    = 0.0051231 sec
+Throughput        = 40.507 Kbps
+Communicational Overhead    = 388 packets
+Computational Overhead      = 3.875 sec
+Average Energy    = 18.0462 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1784
+Packets Received  = 1548
+PDR               = 86.7713 %
+End-to-End Delay  = 0.00967452 sec
+Average Jitter    = 0.0079649 sec
+Throughput        = 41.6324 Kbps
+Communicational Overhead    = 453 packets
+Computational Overhead      = 7.36 sec
+Average Energy    = 18.0345 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 2036
+Packets Received  = 1955
+PDR               = 96.0216 %
+End-to-End Delay  = 0.00693547 sec
+Average Jitter    = 0.00470861 sec
+Throughput        = 48.4559 Kbps
+Communicational Overhead    = 368 packets
+Computational Overhead      = 7.195 sec
+Average Energy    = 18.0564 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 2154
+Packets Received  = 2023
+PDR               = 93.9183 %
+End-to-End Delay  = 0.0140241 sec
+Average Jitter    = 0.0125745 sec
+Throughput        = 48.1672 Kbps
+Communicational Overhead    = 446 packets
+Computational Overhead      = 6.979 sec
+Average Energy    = 18.0582 Joules
+======================================
+
+--- PART 2: VARYING NODES (Packets=500) ---
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 886
+Packets Received  = 793
+PDR               = 89.5034 %
+End-to-End Delay  = 0.0245205 sec
+Average Jitter    = 0.0154728 sec
+Throughput        = 16.523 Kbps
+Communicational Overhead    = 199 packets
+Computational Overhead      = 3.117 sec
+Average Energy    = 18.0268 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 998
+Packets Received  = 895
+PDR               = 89.6794 %
+End-to-End Delay  = 0.0361155 sec
+Average Jitter    = 0.030594 sec
+Throughput        = 17.4211 Kbps
+Communicational Overhead    = 228 packets
+Computational Overhead      = 5.322 sec
+Average Energy    = 18.0308 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1036
+Packets Received  = 948
+PDR               = 91.5058 %
+End-to-End Delay  = 0.0294478 sec
+Average Jitter    = 0.0210102 sec
+Throughput        = 18.1801 Kbps
+Communicational Overhead    = 239 packets
+Computational Overhead      = 5.947 sec
+Average Energy    = 18.0306 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 3118
+Packets Received  = 2521
+PDR               = 80.8531 %
+End-to-End Delay  = 0.0494455 sec
+Average Jitter    = 0.0375067 sec
+Throughput        = 29.1742 Kbps
+Communicational Overhead    = 933 packets
+Computational Overhead      = 19.962 sec
+Average Energy    = 18.0991 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 2572
+Packets Received  = 2225
+PDR               = 86.5086 %
+End-to-End Delay  = 0.0645544 sec
+Average Jitter    = 0.0467656 sec
+Throughput        = 27.7051 Kbps
+Communicational Overhead    = 694 packets
+Computational Overhead      = 17.711 sec
+Average Energy    = 18.0935 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 3273
+Packets Received  = 2788
+PDR               = 85.1818 %
+End-to-End Delay  = 0.0572997 sec
+Average Jitter    = 0.0519473 sec
+Throughput        = 31.9773 Kbps
+Communicational Overhead    = 876 packets
+Computational Overhead      = 20.04 sec
+Average Energy    = 18.1167 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 5148
+Packets Received  = 4398
+PDR               = 85.4312 %
+End-to-End Delay  = 0.100017 sec
+Average Jitter    = 0.0767745 sec
+Throughput        = 46.3113 Kbps
+Communicational Overhead    = 1353 packets
+Computational Overhead      = 61.385 sec
+Average Energy    = 18.2054 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 5627
+Packets Received  = 4744
+PDR               = 84.3078 %
+End-to-End Delay  = 0.0897909 sec
+Average Jitter    = 0.0680117 sec
+Throughput        = 47.9824 Kbps
+Communicational Overhead    = 1508 packets
+Computational Overhead      = 69.215 sec
+Average Energy    = 18.246 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 6920
+Packets Received  = 6026
+PDR               = 87.0809 %
+End-to-End Delay  = 0.0840604 sec
+Average Jitter    = 0.0650893 sec
+Throughput        = 60.6488 Kbps
+Communicational Overhead    = 1784 packets
+Computational Overhead      = 53.553 sec
+Average Energy    = 18.2515 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 7855
+Packets Received  = 6543
+PDR               = 83.2973 %
+End-to-End Delay  = 0.138846 sec
+Average Jitter    = 0.0951575 sec
+Throughput        = 63.7715 Kbps
+Communicational Overhead    = 2232 packets
+Computational Overhead      = 95.295 sec
+Average Energy    = 18.3671 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 5840
+Packets Received  = 4513
+PDR               = 77.2774 %
+End-to-End Delay  = 0.198562 sec
+Average Jitter    = 0.127046 sec
+Throughput        = 46.1691 Kbps
+Communicational Overhead    = 2029 packets
+Computational Overhead      = 92.625 sec
+Average Energy    = 18.379 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 8162
+Packets Received  = 6686
+PDR               = 81.9162 %
+End-to-End Delay  = 0.158113 sec
+Average Jitter    = 0.104194 sec
+Throughput        = 65.6594 Kbps
+Communicational Overhead    = 2634 packets
+Computational Overhead      = 122.172 sec
+Average Energy    = 18.4815 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 7809
+Packets Received  = 6041
+PDR               = 77.3595 %
+End-to-End Delay  = 0.216726 sec
+Average Jitter    = 0.118464 sec
+Throughput        = 60.0437 Kbps
+Communicational Overhead    = 2399 packets
+Computational Overhead      = 147.86 sec
+Average Energy    = 18.4409 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 8749
+Packets Received  = 6496
+PDR               = 74.2485 %
+End-to-End Delay  = 0.248973 sec
+Average Jitter    = 0.143108 sec
+Throughput        = 63.2102 Kbps
+Communicational Overhead    = 2934 packets
+Computational Overhead      = 166.44 sec
+Average Energy    = 18.4567 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+[1/2] Building CXX object scratch/CMakeFiles/scratch_aodv_reactive.dir/aodv_reactive.cc.o
+[2/2] Linking CXX executable /home/beast/ns-allinone-3.43/ns-3.43/build/scratch/ns3.43-aodv_reactive-default
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 10822
+Packets Received  = 7944
+PDR               = 73.406 %
+End-to-End Delay  = 0.211997 sec
+Average Jitter    = 0.124884 sec
+Throughput        = 76.5301 Kbps
+Communicational Overhead    = 3957 packets
+Computational Overhead      = 181.39 sec
+Average Energy    = 18.4548 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+[1/2] Building CXX object scratch/CMakeFiles/scratch_aodv_reactive.dir/aodv_reactive.cc.o
+[2/2] Linking CXX executable /home/beast/ns-allinone-3.43/ns-3.43/build/scratch/ns3.43-aodv_reactive-default
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 7667
+Packets Received  = 5278
+PDR               = 68.8405 %
+End-to-End Delay  = 0.310527 sec
+Average Jitter    = 0.150344 sec
+Throughput        = 51.9988 Kbps
+Communicational Overhead    = 3269 packets
+Computational Overhead      = 220.687 sec
+Average Energy    = 18.5724 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 9417
+Packets Received  = 6231
+PDR               = 66.1676 %
+End-to-End Delay  = 0.262881 sec
+Average Jitter    = 0.134636 sec
+Throughput        = 60.1719 Kbps
+Communicational Overhead    = 4074 packets
+Computational Overhead      = 253.45 sec
+Average Energy    = 18.5511 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = AODV Reactive (B2)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 9876
+Packets Received  = 6917
+PDR               = 70.0385 %
+End-to-End Delay  = 0.260102 sec
+Average Jitter    = 0.137857 sec
+Throughput        = 67.4266 Kbps
+Communicational Overhead    = 4068 packets
+Computational Overhead      = 235.749 sec
+Average Energy    = 18.581 Joules
+======================================
+

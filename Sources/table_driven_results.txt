@@ -1,0 +1,791 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 335
+PDR               = 67 %
+End-to-End Delay  = 0.000924628 sec
+Average Jitter    = 0.0007269 sec
+Throughput        = 10.207 Kbps
+Communicational Overhead    = 247 packets
+Computational Overhead    = 1.33 sec
+Average Energy    = 18.0837 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 302
+PDR               = 60.4 %
+End-to-End Delay  = 0.0174116 sec
+Average Jitter    = 0.0141762 sec
+Throughput        = 9.20156 Kbps
+Communicational Overhead    = 278 packets
+Computational Overhead    = 1.425 sec
+Average Energy    = 18.0803 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 351
+PDR               = 70.2 %
+End-to-End Delay  = 0.0357353 sec
+Average Jitter    = 0.00980629 sec
+Throughput        = 10.6945 Kbps
+Communicational Overhead    = 258 packets
+Computational Overhead    = 1.811 sec
+Average Energy    = 18.0696 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 468
+PDR               = 66.8571 %
+End-to-End Delay  = 0.000719185 sec
+Average Jitter    = 0.000429528 sec
+Throughput        = 14.2594 Kbps
+Communicational Overhead    = 348 packets
+Computational Overhead    = 2.031 sec
+Average Energy    = 18.1326 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 427
+PDR               = 61 %
+End-to-End Delay  = 0.00649268 sec
+Average Jitter    = 0.00595181 sec
+Throughput        = 13.0102 Kbps
+Communicational Overhead    = 395 packets
+Computational Overhead    = 2.202 sec
+Average Energy    = 18.1338 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 700
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 700
+Packets Received  = 495
+PDR               = 70.7143 %
+End-to-End Delay  = 0.0277741 sec
+Average Jitter    = 0.00756163 sec
+Throughput        = 15.082 Kbps
+Communicational Overhead    = 362 packets
+Computational Overhead    = 2.27 sec
+Average Energy    = 18.1085 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 614
+PDR               = 68.2222 %
+End-to-End Delay  = 0.00127854 sec
+Average Jitter    = 0.000981884 sec
+Throughput        = 18.7078 Kbps
+Communicational Overhead    = 446 packets
+Computational Overhead    = 2.828 sec
+Average Energy    = 18.1747 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 547
+PDR               = 60.7778 %
+End-to-End Delay  = 0.00546759 sec
+Average Jitter    = 0.00458944 sec
+Throughput        = 16.6664 Kbps
+Communicational Overhead    = 498 packets
+Computational Overhead    = 3.083 sec
+Average Energy    = 18.1649 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 900
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 900
+Packets Received  = 670
+PDR               = 74.4444 %
+End-to-End Delay  = 0.0258019 sec
+Average Jitter    = 0.0262781 sec
+Throughput        = 20.4141 Kbps
+Communicational Overhead    = 439 packets
+Computational Overhead    = 2.936 sec
+Average Energy    = 18.1233 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 723
+PDR               = 65.7273 %
+End-to-End Delay  = 0.000832944 sec
+Average Jitter    = 0.000618318 sec
+Throughput        = 22.0289 Kbps
+Communicational Overhead    = 557 packets
+Computational Overhead    = 3.637 sec
+Average Energy    = 18.2344 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 611
+PDR               = 55.5455 %
+End-to-End Delay  = 0.00094731 sec
+Average Jitter    = 0.000936121 sec
+Throughput        = 18.6164 Kbps
+Communicational Overhead    = 661 packets
+Computational Overhead    = 4.841 sec
+Average Energy    = 18.2538 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1100
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1100
+Packets Received  = 794
+PDR               = 72.1818 %
+End-to-End Delay  = 0.034287 sec
+Average Jitter    = 0.0307794 sec
+Throughput        = 24.1922 Kbps
+Communicational Overhead    = 570 packets
+Computational Overhead    = 3.558 sec
+Average Energy    = 18.191 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 885
+PDR               = 68.0769 %
+End-to-End Delay  = 0.00133808 sec
+Average Jitter    = 0.00103832 sec
+Throughput        = 26.9648 Kbps
+Communicational Overhead    = 644 packets
+Computational Overhead    = 3.815 sec
+Average Energy    = 18.2653 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 790
+PDR               = 60.7692 %
+End-to-End Delay  = 0.00710015 sec
+Average Jitter    = 0.00865814 sec
+Throughput        = 24.0703 Kbps
+Communicational Overhead    = 719 packets
+Computational Overhead    = 4.093 sec
+Average Energy    = 18.2544 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1300
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1300
+Packets Received  = 897
+PDR               = 69 %
+End-to-End Delay  = 0.027118 sec
+Average Jitter    = 0.020052 sec
+Throughput        = 27.3305 Kbps
+Communicational Overhead    = 678 packets
+Computational Overhead    = 3.887 sec
+Average Energy    = 18.2266 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 1004
+PDR               = 66.9333 %
+End-to-End Delay  = 0.00123166 sec
+Average Jitter    = 0.000821771 sec
+Throughput        = 30.5906 Kbps
+Communicational Overhead    = 741 packets
+Computational Overhead    = 4.51 sec
+Average Energy    = 18.3096 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 895
+PDR               = 59.6667 %
+End-to-End Delay  = 0.0013481 sec
+Average Jitter    = 0.0013525 sec
+Throughput        = 27.2695 Kbps
+Communicational Overhead    = 845 packets
+Computational Overhead    = 4.698 sec
+Average Energy    = 18.3224 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 1500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 1500
+Packets Received  = 1078
+PDR               = 71.8667 %
+End-to-End Delay  = 0.0286352 sec
+Average Jitter    = 0.0204326 sec
+Throughput        = 32.8453 Kbps
+Communicational Overhead    = 735 packets
+Computational Overhead    = 5.344 sec
+Average Energy    = 18.2247 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 335
+PDR               = 67 %
+End-to-End Delay  = 0.000924628 sec
+Average Jitter    = 0.0007269 sec
+Throughput        = 10.207 Kbps
+Communicational Overhead    = 247 packets
+Computational Overhead    = 1.838 sec
+Average Energy    = 18.0837 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 302
+PDR               = 60.4 %
+End-to-End Delay  = 0.0174116 sec
+Average Jitter    = 0.0141762 sec
+Throughput        = 9.20156 Kbps
+Communicational Overhead    = 278 packets
+Computational Overhead    = 1.737 sec
+Average Energy    = 18.0803 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 10
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 351
+PDR               = 70.2 %
+End-to-End Delay  = 0.0357353 sec
+Average Jitter    = 0.00980629 sec
+Throughput        = 10.6945 Kbps
+Communicational Overhead    = 258 packets
+Computational Overhead    = 2.354 sec
+Average Energy    = 18.0696 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 281
+PDR               = 56.2 %
+End-to-End Delay  = 0.0883765 sec
+Average Jitter    = 0.0559 sec
+Throughput        = 8.56172 Kbps
+Communicational Overhead    = 317 packets
+Computational Overhead    = 5.228 sec
+Average Energy    = 18.0859 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 324
+PDR               = 64.8 %
+End-to-End Delay  = 0.0311366 sec
+Average Jitter    = 0.030052 sec
+Throughput        = 9.87188 Kbps
+Communicational Overhead    = 282 packets
+Computational Overhead    = 5.444 sec
+Average Energy    = 18.0851 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 20
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 305
+PDR               = 61 %
+End-to-End Delay  = 0.0250245 sec
+Average Jitter    = 0.019299 sec
+Throughput        = 9.29297 Kbps
+Communicational Overhead    = 296 packets
+Computational Overhead    = 5.031 sec
+Average Energy    = 18.0862 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 304
+PDR               = 61.4141 %
+End-to-End Delay  = 0.0957509 sec
+Average Jitter    = 0.0545316 sec
+Throughput        = 9.2625 Kbps
+Communicational Overhead    = 265 packets
+Computational Overhead    = 11.871 sec
+Average Energy    = 18.0885 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 295
+PDR               = 59.596 %
+End-to-End Delay  = 0.0062431 sec
+Average Jitter    = 0.00719294 sec
+Throughput        = 8.98828 Kbps
+Communicational Overhead    = 296 packets
+Computational Overhead    = 10.563 sec
+Average Energy    = 18.1021 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 30
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 495
+Packets Received  = 299
+PDR               = 60.404 %
+End-to-End Delay  = 0.0344215 sec
+Average Jitter    = 0.029535 sec
+Throughput        = 9.11016 Kbps
+Communicational Overhead    = 303 packets
+Computational Overhead    = 11.56 sec
+Average Energy    = 18.1077 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 257
+PDR               = 51.4 %
+End-to-End Delay  = 0.0233474 sec
+Average Jitter    = 0.0178114 sec
+Throughput        = 7.83047 Kbps
+Communicational Overhead    = 315 packets
+Computational Overhead    = 22.881 sec
+Average Energy    = 18.1364 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 282
+PDR               = 56.4 %
+End-to-End Delay  = 0.0235949 sec
+Average Jitter    = 0.031218 sec
+Throughput        = 8.59219 Kbps
+Communicational Overhead    = 302 packets
+Computational Overhead    = 24.786 sec
+Average Energy    = 18.1587 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 40
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 317
+PDR               = 63.4 %
+End-to-End Delay  = 0.00572865 sec
+Average Jitter    = 0.00812918 sec
+Throughput        = 9.65859 Kbps
+Communicational Overhead    = 275 packets
+Computational Overhead    = 24.085 sec
+Average Energy    = 18.146 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 330
+PDR               = 66 %
+End-to-End Delay  = 0.0395831 sec
+Average Jitter    = 0.0557064 sec
+Throughput        = 10.0547 Kbps
+Communicational Overhead    = 267 packets
+Computational Overhead    = 46.319 sec
+Average Energy    = 18.2248 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 303
+PDR               = 60.6 %
+End-to-End Delay  = 0.0331377 sec
+Average Jitter    = 0.0633774 sec
+Throughput        = 9.23203 Kbps
+Communicational Overhead    = 282 packets
+Computational Overhead    = 36.455 sec
+Average Energy    = 18.2029 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 50
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 500
+Packets Received  = 274
+PDR               = 54.8 %
+End-to-End Delay  = 0.106333 sec
+Average Jitter    = 0.144246 sec
+Throughput        = 8.34844 Kbps
+Communicational Overhead    = 312 packets
+Computational Overhead    = 43.397 sec
+Average Energy    = 18.2005 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 1
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 279
+PDR               = 58.125 %
+End-to-End Delay  = 0.0600203 sec
+Average Jitter    = 0.0871346 sec
+Throughput        = 8.50078 Kbps
+Communicational Overhead    = 282 packets
+Computational Overhead    = 59.205 sec
+Average Energy    = 18.2744 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 2
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 277
+PDR               = 57.7083 %
+End-to-End Delay  = 0.040903 sec
+Average Jitter    = 0.0568477 sec
+Throughput        = 8.43984 Kbps
+Communicational Overhead    = 288 packets
+Computational Overhead    = 69.881 sec
+Average Energy    = 18.2796 Joules
+======================================
+
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+======================================
+         SIMULATION RESULTS           
+======================================
+Protocol Mode     = Baseline (DSDV)
+Number of Nodes   = 60
+Total Packets     = 500
+Run Number (Seed) = 3
+--------------------------------------
+Packets Sent      = 480
+Packets Received  = 316
+PDR               = 65.8333 %
+End-to-End Delay  = 0.0685884 sec
+Average Jitter    = 0.113451 sec
+Throughput        = 9.62813 Kbps
+Communicational Overhead    = 253 packets
+Computational Overhead    = 64.412 sec
+Average Energy    = 18.2495 Joules
+======================================

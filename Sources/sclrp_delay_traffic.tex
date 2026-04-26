@@ -1,0 +1,33 @@
+\documentclass[tikz, border=10mm]{standalone}
+\usepackage{pgfplots}
+\usepackage{lmodern}
+\pgfplotsset{compat=1.17}
+
+\begin{document}
+\begin{tikzpicture}
+    \begin{axis}[
+        width=20cm, height=15cm,
+        tick label style={font=\fontsize{24}{28}\selectfont},
+        label style={font=\fontsize{24}{28}\selectfont},
+        title style={font=\fontsize{24}{28}\selectfont, pad=15pt},
+        title={End-to-End Delay vs Traffic Load},
+        xlabel={Traffic Load (Packets)},
+        ylabel={End-to-End Delay (sec)},
+        xmin=450, xmax=1550,
+        xtick={500,700,900,1100,1300,1500},
+        legend style={
+            font=\fontsize{24}{28}\selectfont, 
+            draw=black, 
+            fill=white,
+            at={(0.98,0.95)}, 
+            anchor=north east
+        },
+        ymajorgrids=true, xmajorgrids=true, grid style=dashed
+    ]
+        \addplot [mark=*, color=teal, line width=2pt, mark size=4pt] coordinates {
+            (500,0.0110) (700,0.0047) (900,0.0046) (1100,0.0086) (1300,0.0052) (1500,0.0089)
+        };
+        \addlegendentry{Proposed SCLRP}
+    \end{axis}
+\end{tikzpicture}
+\end{document}

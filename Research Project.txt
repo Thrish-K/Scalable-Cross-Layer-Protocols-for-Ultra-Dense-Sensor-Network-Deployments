@@ -1,0 +1,33 @@
+Research Project:
+
+Title: 
+
+Adaptive decision support system based heterogeneous routing protocol for wsn based IoT network
+
+1. Objective: (3 to 4 objective)
+2. overleaf account -> create with gmail
+3. create project at overleaf with template zip file.
+4. update project details
+5. share it with gopikrishnanme@gmail.com
+6. fill all the required details
+7. find base papers
+7.1 take papers from journals only
+7.2 take paper after 2023
+7.3 take 6 to 7 papers. save with name b1 to b6
+8. take references and create bib file
+9. complete research objective.
+10. take reference papers
+10.1 take papers from journals only
+10.2 take paper after 2023
+10.3 take 30 to 35 papers. save with name r1 to r30 etc
+10.4 take 5 to 8 survey papers 
+11. take references like base paper and include in bib file
+12. start with introduction section
+13. start with literature survey
+14. one table of literature survey with papers not discussed in para format
+15. check ai plag with gptzero for ai content.
+16. at the end of literature, include research gaps, motivation, problem statement as subsection.
+17. in intro section: can go upto 2 subsection,
+18. in lieterature survey you can go upto 3 subsections.
+19. each para must have 80 to 100 words only.
+20. don use, numbering items, bullet based item contents. only para based content.

@@ -1,0 +1,33 @@
+\documentclass[tikz, border=10mm]{standalone}
+\usepackage{pgfplots}
+\usepackage{lmodern}
+\pgfplotsset{compat=1.17}
+
+\begin{document}
+\begin{tikzpicture}
+    \begin{axis}[
+        width=20cm, height=15cm,
+        tick label style={font=\fontsize{24}{28}\selectfont},
+        label style={font=\fontsize{24}{28}\selectfont},
+        title style={font=\fontsize{24}{28}\selectfont, pad=15pt},
+        title={Packet Delivery Ratio vs Traffic Load},
+        xlabel={Traffic Load (Packets)},
+        ylabel={Packet Delivery Ratio (\%)},
+        xmin=450, xmax=1550,
+        xtick={500,700,900,1100,1300,1500},
+        legend style={
+            font=\fontsize{24}{28}\selectfont, 
+            draw=black, 
+            fill=white,
+            at={(0.98,0.05)}, 
+            anchor=south east
+        },
+        ymajorgrids=true, xmajorgrids=true, grid style=dashed
+    ]
+        \addplot [mark=*, color=teal, line width=2pt, mark size=4pt] coordinates {
+            (500,35.40) (700,35.90) (900,40.07) (1100,37.00) (1300,35.90) (1500,36.89)
+        };
+        \addlegendentry{Proposed SCLRP}
+    \end{axis}
+\end{tikzpicture}
+\end{document}
